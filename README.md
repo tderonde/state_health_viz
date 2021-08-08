@@ -1,4 +1,4 @@
-Interattive visualization of state health metrics:
+Interactive visualization of state health metrics:
 
 * Poverty Rate (%)
 * Income (Median)
