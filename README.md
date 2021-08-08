@@ -1,4 +1,4 @@
-Interactive visualization of state health metrics:
+Interactive visualization of state health metrics using d3.js:
 
 * Poverty Rate (%)
 * Income (Median)
