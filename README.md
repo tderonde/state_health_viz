@@ -11,4 +11,5 @@ Interactive visualization of state health metrics using d3.js:
 https://tderonde.github.io/state_health_viz/
 
 
-![health_viz](https://user-images.githubusercontent.com/80601138/128618596-2d811ab5-f377-4fc5-b9ce-c6c6717d829a.png)
+![health_viz](https://user-images.githubusercontent.com/80601138/128618612-57fbfd95-3ef4-4ce6-9ac1-00a4964c913a.png)
+
